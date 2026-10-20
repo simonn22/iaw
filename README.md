@@ -1,7 +1,12 @@
-# iaw
+# Sitio web de IAW ASIR2
 
-Repositorio de IAW ASIR2
+## Simón Jiménez Crespo
 
-## Actividad 1.1 / Ejercicio 1
+### curso 2026/2027
 
-[actividad1_1/ejercicio1.md](https://github.com/simonn22/prueba_simon/blob/main/ejercicio1.md)
+## Actividad 1.1
+
+* **Ejercicio 1:** [actividad1_1/ejercicio1.md](actividad1_1/ejercicio1.md)
+* **Ejercicio 2:** [actividad1_1/ejercicio2.md](actividad1_1/ejercicio2.md)
+* **Ejercicio 3:** [actividad1_1/ejercicio3.md](actividad1_1/ejercicio3.md)
+* **Ejercicio 4:** [actividad1_1/ejercicio4.md](actividad1_1/ejercicio4.md)
